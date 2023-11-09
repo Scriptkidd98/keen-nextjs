@@ -58,7 +58,7 @@ export default function Home() {
         }
         buttonText = {'Next'}
         buttonIconType = {'arrow'}
-        buttonDestination = {'/onboarding/location'}
+        buttonDestination = {'/onboarding/budget'}
       />
     </main>
   )
