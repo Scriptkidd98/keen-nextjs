@@ -12,7 +12,7 @@ import OnboardingActionButton from '@/components/OnboardingActionButton';
 export default function Home() {
 
   useEffect(() => {
-    document.querySelector('body').style.overflow = 'hidden'
+    document.querySelector('body').style.overflow = 'auto'
   },[]) 
 
   const page = 'location'

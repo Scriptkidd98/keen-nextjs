@@ -170,14 +170,6 @@ button {
     background: rgba(185, 230, 245, 1);
     box-shadow: none;
 }
-.onboarding-body-lower-div {
-    width: 100vw;
-    position: fixed;
-    bottom: 60px;
-    left: 0;
-    right: 0;
-}
-
 .budget-main .slider-value-label {
     color: red; 
     position: fixed;  
