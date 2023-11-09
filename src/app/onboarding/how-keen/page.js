@@ -47,8 +47,8 @@ export default function Home() {
                                     />
                                 }
                                 <div>
-                                    <p>{element}</p>
-                                    <p>{selectButtonDataArrayTwo[index]}</p>
+                                    <p className={styles.howkeenselectbuttonheadingtext}>{element}</p>
+                                    <p className={styles.howkeenselectbuttoninfotext}>{selectButtonDataArrayTwo[index]}</p>
                                 </div>
                             </button>
                         </div>
