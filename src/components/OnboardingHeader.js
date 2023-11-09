@@ -1,3 +1,5 @@
+'use client'
+
 import Image from 'next/image';
 import backchevronicon from '../../public/icons/Back-Chevron-Icon.svg';
 import '@/app/globals.css'
