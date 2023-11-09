@@ -73,9 +73,11 @@ body {
     border-radius: 10px;
     background-color: rgba(185, 230, 245);
 }  
-.onboarding-body-div,
 .onboarding-body-middle-div {
     margin: 20px 0px;
+}
+.onboarding-body-div {
+    margin: 10px;
 }
 .onboarding-heading-text {
     color: rgba(0, 0, 0, 1);
