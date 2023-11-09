@@ -1,0 +1,47 @@
+.borderradiusmapdiv {
+    background-image: url('../../../../public/images/Map-Image.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    height: 76.4778325vh;
+    background-size: cover;
+    margin-top: -14.2857143vh;
+}
+.locationsearchdiv {
+    border: 2px solid rgba(218, 245, 254, 1);
+    width: 320px;
+    height: 56px;
+    padding: 8px 6px 8px 16px;
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns: 1fr 24px;
+    gap: 10px;
+    align-items: center;
+    margin: 50px auto 30px auto;
+}
+.locationicon {
+    height: 24px;
+    width: 24px;
+}
+.locationsearchdiv input,
+.locationsearchdiv input:focus {
+    border: none;
+    outline: none;
+}
+.borderradiusmapdiv button {
+    margin-bottom: 60px;
+}
+
+.onboardinglocationbodydiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.upperlocationdiv {
+    min-height: 37.8078818vh;
+    background-color: white;
+    border-radius: 50px;
+    z-index: 1;
+}

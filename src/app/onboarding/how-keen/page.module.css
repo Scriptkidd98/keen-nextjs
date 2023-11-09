@@ -1,0 +1,34 @@
+.onboardinghowkeenselectbutton {
+    border: 2px solid rgba(218, 245, 254, 1);
+    width: 327px;
+    height: 84px;
+    padding: 24px 20px 24px 20px;
+    border-radius: 40px;
+    gap: 16px;
+    display: grid;
+    grid-template-columns: 24px 1fr;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    margin: 5px auto;
+}
+.onboardinghowkeenselectbutton p {
+    text-align: left;
+    margin: 0px;
+}
+.onboardinghowkeenselectbutton > p:nth-child(1) {
+    color: rgba(0, 0, 0, 1);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+}
+.onboardinghowkeenselectbutton > p:nth-child(2) {
+    color: rgba(122, 118, 118, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+}   
+.keenspan {
+    color: rgba(185, 230, 245);
+}

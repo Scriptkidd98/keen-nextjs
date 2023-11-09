@@ -1,0 +1,22 @@
+.rangeSliderPointsDiv {
+    background: rgba(218, 245, 254, 1);
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+.moneybagemoji {
+    height: 30px;
+    width: 30px;
+}
+.coinemoji {
+    height: 24px;
+    width: 24px;
+}
+.budgetSliderPriceIconDiv {
+    display: flex;
+    height: 46px;
+}
