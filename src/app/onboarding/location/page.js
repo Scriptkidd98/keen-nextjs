@@ -38,8 +38,9 @@ export default function Home() {
           />
         </div>
       </div>
-      <div className={styles.borderradiusmapdiv}>
-        <OnboardingActionButton buttonText="Next" buttonIconType="arrow" buttonDestination={'/onboarding/how-keen'} />
+      <div className={styles.borderradiusmapdiv}></div>
+      <div className={styles.onboardingLocationButtonDiv}>
+        <OnboardingActionButton buttonText="Next" buttonIconType="arrow" buttonDestination={'/onboarding/how-keen'}/>
       </div>
     </div>
   )
