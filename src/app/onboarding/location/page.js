@@ -24,7 +24,6 @@ export default function Home() {
           <OnboardingHeader page={page} progressDisplay={false}/>
         </div>
         
-
         <div className="onboarding-body-upper-div" style={{marginTop: '23.400px'}}>
           <h1 className="onboarding-heading-text">Lets start Your Adventure!</h1>
           <p className="onboarding-info-text">Share Your Starting Point</p>
