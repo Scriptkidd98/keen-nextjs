@@ -50,3 +50,10 @@
     left: 0;
     right: 0;
 }
+.locationsearchdiv input {
+    color: rgba(122, 118, 118, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+}

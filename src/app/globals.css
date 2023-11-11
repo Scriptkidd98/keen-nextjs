@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-.onboarding-heading-text,
-.onboarding-info-text,
-.onboarding-action-button,
-.onboarding-crew-select-button span {
-    font-family: 'Inter', sans-serif;
-}
-
 .onboarding-action-button-inner-div,
 .onboarding-action-button,
 .onboarding-header-progress-container,
@@ -19,6 +12,7 @@
 body {
     min-height: 100vh;
     margin: 0px;
+    font-family: 'Inter', sans-serif;
 }
 .main {
     padding: 30px 50px;
